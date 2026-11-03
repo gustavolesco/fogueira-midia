@@ -1,0 +1,511 @@
+[
+ {
+  "id": "s-0511-1",
+  "date": "2026-11-05",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Enquete avaliações",
+  "text": "Você responde as avaliações do seu negócio?",
+  "background": "fundo laranja",
+  "sticker": "Enquete: Sempre / Quase nunca",
+  "files": []
+ },
+ {
+  "id": "f-0511",
+  "date": "2026-11-05",
+  "time": "12:15",
+  "kind": "feed",
+  "exec": "AUTO",
+  "title": "Carrossel A: Recado do cliente",
+  "hook": "Recado de um cliente que te procurou no Google",
+  "pillar": "Google / presença",
+  "files": [
+   "carA_s1.jpg",
+   "carA_s2.jpg",
+   "carA_s3.jpg",
+   "carA_s4.jpg",
+   "carA_s5.jpg",
+   "carA_s6.jpg",
+   "carA_s7.jpg",
+   "carA_s8.jpg"
+  ],
+  "caption": "Cliente procura no Google, não acha o telefone, vê um perfil sem foto e chama outro. Já aconteceu com você, autônomo da Grande Vitória?\n\nO que o cliente quer ver antes de chamar: telefone ou WhatsApp, fotos do seu trabalho, avaliações respondidas e horário de atendimento. Se falta algum, dá para resolver.\n\nManda esse post para aquele colega que ainda não aparece no Google. As mensagens dos slides são uma situação ilustrativa.\n\nQuer ver como está o seu perfil? Peça o diagnóstico grátis no WhatsApp (link na bio).\n\n#presençadigital #GoogleMeuNegócio #autônomos #prestadordeserviço #GrandeVitória",
+  "notes": "Carrossel 8 slides, JPEG 1080x1350."
+ },
+ {
+  "id": "s-0511-2",
+  "date": "2026-11-05",
+  "time": "12:20",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Compartilhar Carrossel A",
+  "text": "Compartilhar o post nos Stories (avião > adicionar ao story)",
+  "background": null,
+  "sticker": "Sticker 'Enviar' opcional",
+  "files": []
+ },
+ {
+  "id": "s-0511-3",
+  "date": "2026-11-05",
+  "time": "19:30",
+  "kind": "story",
+  "exec": "AUTO",
+  "title": "Dica 1: avaliação",
+  "text": "Peça avaliação logo depois do serviço.",
+  "background": null,
+  "sticker": null,
+  "files": [
+   "story_dica1.jpg"
+  ]
+ },
+ {
+  "id": "s-0611-1",
+  "date": "2026-11-06",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "AUTO",
+  "title": "Dica 2: WhatsApp",
+  "text": "Seu WhatsApp aparece no Google e no Instagram?",
+  "background": null,
+  "sticker": null,
+  "files": [
+   "story_dica2.jpg"
+  ]
+ },
+ {
+  "id": "s-0611-2",
+  "date": "2026-11-06",
+  "time": "12:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Caixinha de perguntas",
+  "text": "Qual a sua maior dúvida sobre aparecer no Google?",
+  "background": "fundo azul",
+  "sticker": "Caixinha de perguntas",
+  "files": []
+ },
+ {
+  "id": "r-0611",
+  "date": "2026-11-06",
+  "time": "19:30",
+  "kind": "reel",
+  "exec": "MANUAL",
+  "title": "Reel 1: O que é Google Meu Negócio",
+  "hook": "Você sabe o que é Google Meu Negócio?",
+  "pillar": "Google / educação",
+  "files": [
+   "reel1_google-meu-negocio.mp4"
+  ],
+  "caption": "O que é Google Meu Negócio? É a ficha que aparece quando o cliente pesquisa o seu serviço: foto, nota, telefone e horário. É gratuito. Sem ficha, o cliente chama quem aparece.\n\nQuer ver como está a sua? Peça o diagnóstico grátis no WhatsApp (link na bio).\n\n#GoogleMeuNegócio #autônomos #presençadigital #prestadordeserviço #GrandeVitória",
+  "notes": "Subir o MP4 no app (Reels), adicionar áudio em alta disponível para conta profissional e conferir a capa. Vídeo silencioso por padrão."
+ },
+ {
+  "id": "s-0611-3",
+  "date": "2026-11-06",
+  "time": "19:40",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Compartilhar Reel 1 + enquete",
+  "text": "Você sabia o que é Google Meu Negócio?",
+  "background": "fundo azul",
+  "sticker": "Enquete: Sim / Não",
+  "files": []
+ },
+ {
+  "id": "s-0711-1",
+  "date": "2026-11-07",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Enquete visual",
+  "text": "Qual perfil você chamaria?",
+  "background": "fundo azul",
+  "sticker": "Enquete: Com logo e padrão / Sem padrão",
+  "files": []
+ },
+ {
+  "id": "s-0711-2",
+  "date": "2026-11-07",
+  "time": "12:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Responder caixinha",
+  "text": "Responder as perguntas recebidas, 1 por Story (fundo areia)",
+  "background": "fundo areia",
+  "sticker": "Resposta a pergunta",
+  "files": []
+ },
+ {
+  "id": "f-0711",
+  "date": "2026-11-07",
+  "time": "19:30",
+  "kind": "feed",
+  "exec": "AUTO",
+  "title": "Carrossel B: Antes x Depois",
+  "hook": "O mesmo eletricista. Dois perfis. Qual você chamaria?",
+  "pillar": "Identidade / artes",
+  "files": [
+   "carB_s1.jpg",
+   "carB_s2.jpg",
+   "carB_s3.jpg",
+   "carB_s4.jpg",
+   "carB_s5.jpg",
+   "carB_s6.jpg",
+   "carB_s7.jpg"
+  ],
+  "caption": "O mesmo eletricista, dois perfis: sem logo e sem contato claro, ou com logo, padrão visual e WhatsApp em 1 clique. Qual você chamaria?\n\nO serviço é o mesmo. Muda como ele aparece para quem pesquisa no Google e no Instagram. Os perfis dos slides são exemplos ilustrativos.\n\nNo pacote Acenda seu negócio entregamos logo, cartão de WhatsApp, 8 artes para as redes, Google Meu Negócio otimizado, microsite de bio e kit de avaliações, em 7 dias úteis.\n\nComente ANTES ou DEPOIS e peça o diagnóstico grátis no WhatsApp (link na bio).\n\n#identidadevisual #presençadigital #eletricista #autônomos #GrandeVitória",
+  "notes": "Carrossel 7 slides, JPEG 1080x1350."
+ },
+ {
+  "id": "s-0711-3",
+  "date": "2026-11-07",
+  "time": "19:40",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Compartilhar Carrossel B",
+  "text": "Compartilhar o post nos Stories",
+  "background": null,
+  "sticker": "Enquete: Antes / Depois",
+  "files": []
+ },
+ {
+  "id": "s-0811-1",
+  "date": "2026-11-08",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Texto domingo",
+  "text": "Domingo é dia de arrumar o perfil: dá para ajeitar foto, horário e WhatsApp do Google em 15 minutos.",
+  "background": "fundo areia",
+  "sticker": null,
+  "files": []
+ },
+ {
+  "id": "s-0811-2",
+  "date": "2026-11-08",
+  "time": "19:00",
+  "kind": "story",
+  "exec": "AUTO",
+  "title": "Dica 3: foto",
+  "text": "Foto do trabalho pronto vale mais que qualquer slogan.",
+  "background": null,
+  "sticker": null,
+  "files": [
+   "story_dica3.jpg"
+  ]
+ },
+ {
+  "id": "s-0911-1",
+  "date": "2026-11-09",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "AUTO",
+  "title": "Dica 4: responder",
+  "text": "Responda toda avaliação, inclusive as ruins.",
+  "background": null,
+  "sticker": null,
+  "files": [
+   "story_dica4.jpg"
+  ]
+ },
+ {
+  "id": "s-0911-2",
+  "date": "2026-11-09",
+  "time": "12:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Enquete foto",
+  "text": "Seu perfil tem foto do trabalho?",
+  "background": "fundo laranja",
+  "sticker": "Enquete: Sim / Ainda não",
+  "files": []
+ },
+ {
+  "id": "s-0911-3",
+  "date": "2026-11-09",
+  "time": "19:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Bastidor: diagnóstico",
+  "text": "Como é o nosso diagnóstico: 12 pontos do seu perfil, em 1 página.",
+  "background": "fundo azul",
+  "sticker": null,
+  "files": []
+ },
+ {
+  "id": "s-1011-1",
+  "date": "2026-11-10",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Enquete erros",
+  "text": "Quantos desses erros o seu perfil tem?",
+  "background": "fundo azul",
+  "sticker": "Enquete: 0 ou 1 / 2 ou mais",
+  "files": []
+ },
+ {
+  "id": "f-1011",
+  "date": "2026-11-10",
+  "time": "12:15",
+  "kind": "feed",
+  "exec": "AUTO",
+  "title": "Carrossel C: 5 erros",
+  "hook": "Erros no perfil do autônomo que fazem o cliente chamar o outro",
+  "pillar": "Mix: Google, identidade, contato",
+  "files": [
+   "carC_s1.jpg",
+   "carC_s2.jpg",
+   "carC_s3.jpg",
+   "carC_s4.jpg",
+   "carC_s5.jpg",
+   "carC_s6.jpg",
+   "carC_s7.jpg",
+   "carC_s8.jpg"
+  ],
+  "caption": "5 erros no perfil de autônomo que fazem o cliente chamar o concorrente: foto escura, só telefone sem link, avaliação sem resposta, posts sem padrão e link da bio quebrado.\n\nTodos têm conserto, e nenhum exige mudar o seu serviço. Salve este post para conferir o seu perfil e mande para um colega que precisa ver.\n\nQuantos desses erros o seu perfil tem? Responda nos comentários e peça o diagnóstico grátis no WhatsApp (link na bio).\n\n#presençadigital #autônomos #prestadordeserviço #GoogleMeuNegócio #GrandeVitória",
+  "notes": "Carrossel 8 slides, JPEG 1080x1350."
+ },
+ {
+  "id": "s-1011-2",
+  "date": "2026-11-10",
+  "time": "12:20",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Compartilhar Carrossel C",
+  "text": "Compartilhar o post nos Stories",
+  "background": null,
+  "sticker": "Sticker 'Enviar' opcional",
+  "files": []
+ },
+ {
+  "id": "s-1011-3",
+  "date": "2026-11-10",
+  "time": "19:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Responder caixinha",
+  "text": "Responder as perguntas recebidas",
+  "background": "fundo areia",
+  "sticker": "Resposta a pergunta",
+  "files": []
+ },
+ {
+  "id": "s-1111-1",
+  "date": "2026-11-11",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "AUTO",
+  "title": "Dica 5: padrão",
+  "text": "Mesma cor, mesma letra, mesmo logo.",
+  "background": null,
+  "sticker": null,
+  "files": [
+   "story_dica5.jpg"
+  ]
+ },
+ {
+  "id": "s-1111-2",
+  "date": "2026-11-11",
+  "time": "12:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Convite ao diagnóstico",
+  "text": "Peça o diagnóstico grátis: 12 pontos do seu perfil em 1 página.",
+  "background": "fundo laranja",
+  "sticker": "Sticker de link (WhatsApp)",
+  "files": []
+ },
+ {
+  "id": "r-1111",
+  "date": "2026-11-11",
+  "time": "19:30",
+  "kind": "reel",
+  "exec": "MANUAL",
+  "title": "Reel 2: Recado do cliente",
+  "hook": "Recado de um cliente que te procurou no Google",
+  "pillar": "Google / presença",
+  "files": [
+   "reel2_recado-do-cliente.mp4"
+  ],
+  "caption": "Recado de um cliente que te procurou no Google: sem telefone, sem foto, sem avaliação, e ele chamou outro. (Situação ilustrativa.)\n\nO seu perfil responde por você? Peça o diagnóstico grátis no WhatsApp (link na bio).\n\n#presençadigital #GoogleMeuNegócio #autônomos #eletricista #GrandeVitória",
+  "notes": "Subir o MP4 no app (Reels), adicionar áudio em alta disponível para conta profissional e conferir a capa. Vídeo silencioso por padrão."
+ },
+ {
+  "id": "s-1111-3",
+  "date": "2026-11-11",
+  "time": "19:40",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Compartilhar Reel 2",
+  "text": "Compartilhar o Reel nos Stories",
+  "background": null,
+  "sticker": "Sticker 'Enviar' opcional",
+  "files": []
+ },
+ {
+  "id": "s-1211-1",
+  "date": "2026-11-12",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Enquete sazonal",
+  "text": "Você atende mais no calor ou na chuva?",
+  "background": "fundo azul",
+  "sticker": "Enquete: Calor / Chuva",
+  "files": []
+ },
+ {
+  "id": "s-1211-2",
+  "date": "2026-11-12",
+  "time": "12:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Responder caixinha",
+  "text": "Responder as perguntas recebidas",
+  "background": "fundo areia",
+  "sticker": "Resposta a pergunta",
+  "files": []
+ },
+ {
+  "id": "f-1211",
+  "date": "2026-11-12",
+  "time": "19:30",
+  "kind": "feed",
+  "exec": "AUTO",
+  "title": "Carrossel D: Alta temporada",
+  "hook": "O calor e a chuva chegam. Seu cliente vai procurar. Vai achar você?",
+  "pillar": "Sazonal / Google",
+  "files": [
+   "carD_s1.jpg",
+   "carD_s2.jpg",
+   "carD_s3.jpg",
+   "carD_s4.jpg",
+   "carD_s5.jpg",
+   "carD_s6.jpg",
+   "carD_s7.jpg"
+  ],
+  "caption": "Calor e chuva chegando na Grande Vitória: eletricista, encanador, pintor e técnico de ar-condicionado, seu cliente vai pesquisar no Google. Vai achar você?\n\nAntes da alta temporada, confira: ficha do Google completa, fotos recentes do seu trabalho, horário e WhatsApp atualizados e avaliações pedidas aos últimos clientes.\n\nSalve para conferir depois e peça o diagnóstico grátis do seu perfil no WhatsApp (link na bio).\n\n#arcondicionado #eletricista #encanador #pintor #GrandeVitória",
+  "notes": "Carrossel 7 slides, JPEG 1080x1350."
+ },
+ {
+  "id": "s-1211-3",
+  "date": "2026-11-12",
+  "time": "19:40",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Compartilhar Carrossel D",
+  "text": "Compartilhar o post nos Stories",
+  "background": null,
+  "sticker": "Sticker 'Enviar' opcional",
+  "files": []
+ },
+ {
+  "id": "s-1311-1",
+  "date": "2026-11-13",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "AUTO",
+  "title": "Dica 6: horário",
+  "text": "Horário e bairro de atendimento no Google evitam ligação perdida.",
+  "background": null,
+  "sticker": null,
+  "files": [
+   "story_dica6.jpg"
+  ]
+ },
+ {
+  "id": "s-1311-2",
+  "date": "2026-11-13",
+  "time": "12:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Caixinha Black Friday",
+  "text": "Vai fazer promoção na Black Friday? Conta aqui.",
+  "background": "fundo laranja",
+  "sticker": "Caixinha de perguntas",
+  "files": []
+ },
+ {
+  "id": "s-1411-1",
+  "date": "2026-11-14",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Enquete Black Friday",
+  "text": "Você vai fazer promoção na Black Friday?",
+  "background": "fundo azul",
+  "sticker": "Enquete: Sim / Ainda não",
+  "files": []
+ },
+ {
+  "id": "f-1411",
+  "date": "2026-11-14",
+  "time": "12:15",
+  "kind": "feed",
+  "exec": "AUTO",
+  "title": "Carrossel E: Black Friday",
+  "hook": "Vai fazer promoção? Antes, o cliente precisa te achar.",
+  "pillar": "Promoção / sazonal",
+  "files": [
+   "carE_s1.jpg",
+   "carE_s2.jpg",
+   "carE_s3.jpg",
+   "carE_s4.jpg",
+   "carE_s5.jpg",
+   "carE_s6.jpg"
+  ],
+  "caption": "Vai fazer promoção de Black Friday no seu serviço? Antes, o cliente precisa te achar. A Black Friday deste ano é 27/11.\n\n3 passos: perfil em dia (Google, bio e WhatsApp), arte da promoção com o seu logo e contato, e WhatsApp visível para chamar em 1 clique.\n\nQuer se preparar a tempo? Peça o diagnóstico grátis no WhatsApp (link na bio). Salve este post para conferir o passo a passo.\n\n#BlackFriday #presençadigital #autônomos #prestadordeserviço #GrandeVitória",
+  "notes": "Carrossel 6 slides, JPEG 1080x1350."
+ },
+ {
+  "id": "s-1411-2",
+  "date": "2026-11-14",
+  "time": "12:20",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Compartilhar Carrossel E",
+  "text": "Compartilhar o post nos Stories",
+  "background": null,
+  "sticker": "Sticker 'Enviar' opcional",
+  "files": []
+ },
+ {
+  "id": "s-1511-1",
+  "date": "2026-11-15",
+  "time": "10:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Feriado (1 Story)",
+  "text": "Feriado: bom momento para conferir o seu perfil no Google. Já conferiu?",
+  "background": "fundo areia",
+  "sticker": null,
+  "files": []
+ },
+ {
+  "id": "s-1611-1",
+  "date": "2026-11-16",
+  "time": "07:00",
+  "kind": "story",
+  "exec": "MANUAL",
+  "title": "Enquete WhatsApp",
+  "text": "Seu WhatsApp aparece no Google e no Instagram?",
+  "background": "fundo laranja",
+  "sticker": "Enquete: Nos dois / Só em um",
+  "files": []
+ },
+ {
+  "id": "f-1711",
+  "date": "2026-11-17",
+  "time": "12:15",
+  "kind": "feed",
+  "exec": "A DEFINIR",
+  "title": "Slot livre",
+  "hook": "Decidir com o relatório semanal de 11/11 (qual formato teve mais alcance, envio e salvamento).",
+  "pillar": "A definir",
+  "files": [],
+  "caption": "",
+  "notes": "Preparo o próximo conteúdo depois de ler o relatório."
+ }
+]
